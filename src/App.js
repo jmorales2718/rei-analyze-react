@@ -4,7 +4,7 @@ import HomePage from "./components/pages/HomePage";
 import SearchPage from "./components/pages/SearchPage";
 
 const App = () => (
-  <div>
+  <div className="ui container">
     <Route path="/" exact component={HomePage} />
     <Route path="/search" exact component={SearchPage} />
   </div>
