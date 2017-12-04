@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.17.1",
     "jquery": "^3.2.1",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
@@ -13,11 +14,11 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.17",
     "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
     "redux-thunk": "^2.2.0",
     "semantic-ui-css": "^2.2.12",
     "semantic-ui-react": "^0.76.0",
-    "validator": "^9.1.2",
-    "redux-devtools-extension": "^2.13.2"
+    "validator": "^9.1.2"
   },
   "scripts": {
     "start": "PORT=3333 react-scripts start",
@@ -36,5 +37,6 @@
     "eslint-plugin-react": "^7.5.1",
     "json-loader": "^0.5.7",
     "prettier": "^1.8.2"
-  }
+  },
+  "proxy": "http://localhost:8080"
 }
