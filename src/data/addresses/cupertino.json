@@ -1,0 +1,1122 @@
+[
+	{
+	"address": " STEVENS CREEK BLVD, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0749798",
+			"LAT": "37.3265984",
+			"NUMBER": "",
+			"STREET": "STEVENS CREEK BLVD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "6788dde2d20e1184"
+			},
+		{
+			"LON": "-122.051276",
+			"LAT": "37.3233901",
+			"NUMBER": "",
+			"STREET": "STEVENS CREEK BLVD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "2a51caf24dd75dbd"
+			}
+		]
+	},
+	{
+	"address": "7145 RAINBOW DR, SAN JOSE",
+	"numUnits": "7",
+	"units": [
+		{
+			"LON": "-122.0293081",
+			"LAT": "37.3008096",
+			"NUMBER": "7145",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0226f09a9ef2976d"
+			},
+		{
+			"LON": "-122.0293081",
+			"LAT": "37.3008096",
+			"NUMBER": "7145",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0226f09a9ef2976d"
+			},
+		{
+			"LON": "-122.0293081",
+			"LAT": "37.3008096",
+			"NUMBER": "7145",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0226f09a9ef2976d"
+			},
+		{
+			"LON": "-122.0293081",
+			"LAT": "37.3008096",
+			"NUMBER": "7145",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0226f09a9ef2976d"
+			},
+		{
+			"LON": "-122.0293081",
+			"LAT": "37.3008096",
+			"NUMBER": "7145",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0226f09a9ef2976d"
+			},
+		{
+			"LON": "-122.0293081",
+			"LAT": "37.3008096",
+			"NUMBER": "7145",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0226f09a9ef2976d"
+			},
+		{
+			"LON": "-122.0293081",
+			"LAT": "37.3008096",
+			"NUMBER": "7145",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0226f09a9ef2976d"
+			}
+		]
+	},
+	{
+	"address": "20800 HOMESTEAD RD, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.037905",
+			"LAT": "37.3371144",
+			"NUMBER": "20800",
+			"STREET": "HOMESTEAD RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-0498",
+			"ID": "",
+			"HASH": "eedb417ab10de029"
+			},
+		{
+			"LON": "-122.0379606",
+			"LAT": "37.33711",
+			"NUMBER": "20800",
+			"STREET": "HOMESTEAD RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-0436",
+			"ID": "",
+			"HASH": "268203dd2fae89f3"
+			}
+		]
+	},
+	{
+	"address": "11041 STEVENS CANYON RD, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0719314",
+			"LAT": "37.3084558",
+			"NUMBER": "11041",
+			"STREET": "STEVENS CANYON RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-5416",
+			"ID": "",
+			"HASH": "828c8b333ec1a10f"
+			},
+		{
+			"LON": "-122.0815202",
+			"LAT": "37.304492",
+			"NUMBER": "11041",
+			"STREET": "STEVENS CANYON RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "51d61e9adc0aedf5"
+			}
+		]
+	},
+	{
+	"address": "10787 S BLANEY AVE, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0237855",
+			"LAT": "37.3113616",
+			"NUMBER": "10787",
+			"STREET": "S BLANEY AVE",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-4500",
+			"ID": "",
+			"HASH": "51bed2234c455b12"
+			},
+		{
+			"LON": "-122.0238122",
+			"LAT": "37.3113058",
+			"NUMBER": "10787",
+			"STREET": "S BLANEY AVE",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "c50659a119130b3c"
+			}
+		]
+	},
+	{
+	"address": "7140 RAINBOW DR, SAN JOSE",
+	"numUnits": "8",
+	"units": [
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			},
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			},
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			},
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			},
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			},
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			},
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			},
+		{
+			"LON": "-122.0295191",
+			"LAT": "37.3000349",
+			"NUMBER": "7140",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0cbb65b2f6df99c5"
+			}
+		]
+	},
+	{
+	"address": "20415 VIA PAVISO, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0314732",
+			"LAT": "37.3360612",
+			"NUMBER": "20415",
+			"STREET": "VIA PAVISO",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "3890bed2de3343da"
+			},
+		{
+			"LON": "-122.0318661",
+			"LAT": "37.3368887",
+			"NUMBER": "20415",
+			"STREET": "VIA PAVISO",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-6322",
+			"ID": "",
+			"HASH": "cbb9f529067fe4f3"
+			}
+		]
+	},
+	{
+	"address": " CELESTE CIR, CUPERTINO",
+	"numUnits": "4",
+	"units": [
+		{
+			"LON": "-122.036122",
+			"LAT": "37.3353472",
+			"NUMBER": "",
+			"STREET": "CELESTE CIR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-0480",
+			"ID": "",
+			"HASH": "50898af237f4283a"
+			},
+		{
+			"LON": "-122.0357426",
+			"LAT": "37.3353139",
+			"NUMBER": "",
+			"STREET": "CELESTE CIR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-0480",
+			"ID": "",
+			"HASH": "5231ae3ef7dba8d6"
+			},
+		{
+			"LON": "-122.0350864",
+			"LAT": "37.3353302",
+			"NUMBER": "",
+			"STREET": "CELESTE CIR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-0484",
+			"ID": "",
+			"HASH": "eec9279d1cbff32d"
+			},
+		{
+			"LON": "-122.03467",
+			"LAT": "37.3353555",
+			"NUMBER": "",
+			"STREET": "CELESTE CIR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-0482",
+			"ID": "",
+			"HASH": "ae4cd2c8cc895283"
+			}
+		]
+	},
+	{
+	"address": "10092 BIANCHI WAY, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0399789",
+			"LAT": "37.3218587",
+			"NUMBER": "10092",
+			"STREET": "BIANCHI WAY",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "e37f01a37321378a"
+			},
+		{
+			"LON": "-122.0405985",
+			"LAT": "37.3217043",
+			"NUMBER": "10092",
+			"STREET": "BIANCHI WAY",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-4273",
+			"ID": "",
+			"HASH": "9a6b644b199a3561"
+			}
+		]
+	},
+	{
+	"address": "1675 HOLLENBECK AVE, SUNNYVALE",
+	"numUnits": "3",
+	"units": [
+		{
+			"LON": "-122.041881",
+			"LAT": "37.3379085",
+			"NUMBER": "1675",
+			"STREET": "HOLLENBECK AVE",
+			"UNIT": "",
+			"CITY": "SUNNYVALE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "94087",
+			"ID": "",
+			"HASH": "0ba0f1e3c10becc5"
+			},
+		{
+			"LON": "-122.0422739",
+			"LAT": "37.3382796",
+			"NUMBER": "1675",
+			"STREET": "HOLLENBECK AVE",
+			"UNIT": "",
+			"CITY": "SUNNYVALE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "94087",
+			"ID": "",
+			"HASH": "86d498840dcf9d5d"
+			},
+		{
+			"LON": "-122.0425597",
+			"LAT": "37.3392922",
+			"NUMBER": "1675",
+			"STREET": "HOLLENBECK AVE",
+			"UNIT": "",
+			"CITY": "SUNNYVALE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "94087",
+			"ID": "",
+			"HASH": "7d934097aa780f48"
+			}
+		]
+	},
+	{
+	"address": "915 ST JOSEPH AVE, LOS ALTOS",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0900115",
+			"LAT": "37.3415697",
+			"NUMBER": "915",
+			"STREET": "ST JOSEPH AVE",
+			"UNIT": "",
+			"CITY": "LOS ALTOS",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "94024",
+			"ID": "",
+			"HASH": "81efea9d593a5381"
+			},
+		{
+			"LON": "-122.0896738",
+			"LAT": "37.3413847",
+			"NUMBER": "915",
+			"STREET": "ST JOSEPH AVE",
+			"UNIT": "",
+			"CITY": "LOS ALTOS",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "94024",
+			"ID": "",
+			"HASH": "47e937d1ba56251b"
+			}
+		]
+	},
+	{
+	"address": "1299 WATER LILY WAY, SAN JOSE",
+	"numUnits": "8",
+	"units": [
+		{
+			"LON": "-122.03297",
+			"LAT": "37.3035959",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "5b1596b9af70c714"
+			},
+		{
+			"LON": "-122.0330272",
+			"LAT": "37.3031408",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "6d88259c19b4a322"
+			},
+		{
+			"LON": "-122.0329881",
+			"LAT": "37.3035337",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "5bc1cb242290211f"
+			},
+		{
+			"LON": "-122.0329857",
+			"LAT": "37.3034061",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "da92e1638b7a4e04"
+			},
+		{
+			"LON": "-122.0329836",
+			"LAT": "37.3033155",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "e8df218b4fa08808"
+			},
+		{
+			"LON": "-122.0329826",
+			"LAT": "37.3032189",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "a28ccbd1800d5603"
+			},
+		{
+			"LON": "-122.0329932",
+			"LAT": "37.3036654",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "d4b9b57560bc3ef3"
+			},
+		{
+			"LON": "-122.032987",
+			"LAT": "37.303476",
+			"NUMBER": "1299",
+			"STREET": "WATER LILY WAY",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "b1cd390fb7c57f8d"
+			}
+		]
+	},
+	{
+	"address": "19608 PRUNERIDGE AVE, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0155397",
+			"LAT": "37.3340515",
+			"NUMBER": "19608",
+			"STREET": "PRUNERIDGE AVE",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "942b60fdaca86a21"
+			},
+		{
+			"LON": "-122.0159874",
+			"LAT": "37.3327556",
+			"NUMBER": "19608",
+			"STREET": "PRUNERIDGE AVE",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "2b7507738d346285"
+			}
+		]
+	},
+	{
+	"address": "7200 BOLLINGER RD, SAN JOSE",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0303738",
+			"LAT": "37.3110441",
+			"NUMBER": "7200",
+			"STREET": "BOLLINGER RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "3ef3d9e7cc3783cd"
+			},
+		{
+			"LON": "-122.0303952",
+			"LAT": "37.3114174",
+			"NUMBER": "7200",
+			"STREET": "BOLLINGER RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "250bdbb1771f23e8"
+			}
+		]
+	},
+	{
+	"address": "19333 VALLCO PKWY, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0094585",
+			"LAT": "37.3264554",
+			"NUMBER": "19333",
+			"STREET": "VALLCO PKWY",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-2506",
+			"ID": "",
+			"HASH": "fa6f8dcd883030d5"
+			},
+		{
+			"LON": "-122.0109472",
+			"LAT": "37.3265971",
+			"NUMBER": "19333",
+			"STREET": "VALLCO PKWY",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "13adc5591dc0e80f"
+			}
+		]
+	},
+	{
+	"address": "11621 REGNART CANYON DR, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0631824",
+			"LAT": "37.2978598",
+			"NUMBER": "11621",
+			"STREET": "REGNART CANYON DR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-4830",
+			"ID": "",
+			"HASH": "83e0c146bdff347f"
+			},
+		{
+			"LON": "-122.0637897",
+			"LAT": "37.2987739",
+			"NUMBER": "11621",
+			"STREET": "REGNART CANYON DR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "bc7a89b37b1bd27a"
+			}
+		]
+	},
+	{
+	"address": "22820 SAN JUAN RD, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.073937",
+			"LAT": "37.3127996",
+			"NUMBER": "22820",
+			"STREET": "SAN JUAN RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "bb13ef49ef563b18"
+			},
+		{
+			"LON": "-122.0740368",
+			"LAT": "37.3132521",
+			"NUMBER": "22820",
+			"STREET": "SAN JUAN RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-3935",
+			"ID": "",
+			"HASH": "d877cc5b041c249b"
+			}
+		]
+	},
+	{
+	"address": "10123 N WOLFE RD, CUPERTINO",
+	"numUnits": "5",
+	"units": [
+		{
+			"LON": "-122.0148315",
+			"LAT": "37.326369",
+			"NUMBER": "10123",
+			"STREET": "N WOLFE RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "e48993f79a0efa08"
+			},
+		{
+			"LON": "-122.0152439",
+			"LAT": "37.3266012",
+			"NUMBER": "10123",
+			"STREET": "N WOLFE RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "d590c2d73de53812"
+			},
+		{
+			"LON": "-122.0148486",
+			"LAT": "37.3269855",
+			"NUMBER": "10123",
+			"STREET": "N WOLFE RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "ff58563b9e57481b"
+			},
+		{
+			"LON": "-122.0137436",
+			"LAT": "37.3269469",
+			"NUMBER": "10123",
+			"STREET": "N WOLFE RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "c86f5f9b5cd77015"
+			},
+		{
+			"LON": "-122.0154155",
+			"LAT": "37.3249851",
+			"NUMBER": "10123",
+			"STREET": "N WOLFE RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014",
+			"ID": "",
+			"HASH": "fe38708647fdd537"
+			}
+		]
+	},
+	{
+	"address": "22000 MCCLELLAN RD, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0593773",
+			"LAT": "37.313893",
+			"NUMBER": "22000",
+			"STREET": "MCCLELLAN RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": " ",
+			"ID": "",
+			"HASH": "041d1d3c9bc00f61"
+			},
+		{
+			"LON": "-122.0594522",
+			"LAT": "37.3138681",
+			"NUMBER": "22000",
+			"STREET": "MCCLELLAN RD",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-4060",
+			"ID": "",
+			"HASH": "11cf753dbd572705"
+			}
+		]
+	},
+	{
+	"address": "7135 RAINBOW DR, SAN JOSE",
+	"numUnits": "4",
+	"units": [
+		{
+			"LON": "-122.0290199",
+			"LAT": "37.3006732",
+			"NUMBER": "7135",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "02b0d8c85b74d264"
+			},
+		{
+			"LON": "-122.0290199",
+			"LAT": "37.3006732",
+			"NUMBER": "7135",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "02b0d8c85b74d264"
+			},
+		{
+			"LON": "-122.0290199",
+			"LAT": "37.3006732",
+			"NUMBER": "7135",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "02b0d8c85b74d264"
+			},
+		{
+			"LON": "-122.0290199",
+			"LAT": "37.3006732",
+			"NUMBER": "7135",
+			"STREET": "RAINBOW DR",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "02b0d8c85b74d264"
+			}
+		]
+	},
+	{
+	"address": "20846 DUNBAR DR, CUPERTINO",
+	"numUnits": "2",
+	"units": [
+		{
+			"LON": "-122.0386076",
+			"LAT": "37.3296437",
+			"NUMBER": "20846",
+			"STREET": "DUNBAR DR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95014-1802",
+			"ID": "",
+			"HASH": "6fcb9aea9304a2e0"
+			},
+		{
+			"LON": "-122.0386856",
+			"LAT": "37.3296427",
+			"NUMBER": "20846",
+			"STREET": "DUNBAR DR",
+			"UNIT": "",
+			"CITY": "CUPERTINO",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": " ",
+			"ID": "",
+			"HASH": "00b0d8224aa95027"
+			}
+		]
+	},
+	{
+	"address": "1080 SARATOGA-SUNNYVALE RD, SAN JOSE",
+	"numUnits": "9",
+	"units": [
+		{
+			"LON": "-122.0317159",
+			"LAT": "37.3068953",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "b95612590a336f39"
+			},
+		{
+			"LON": "-122.0314993",
+			"LAT": "37.3068981",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "2e4039cfe9ac03a8"
+			},
+		{
+			"LON": "-122.0316437",
+			"LAT": "37.3068963",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "8aabc1e8c149ae71"
+			},
+		{
+			"LON": "-122.031404",
+			"LAT": "37.3069433",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "c155da5ce6329a53"
+			},
+		{
+			"LON": "-122.031402",
+			"LAT": "37.30685",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "781cc18993c65531"
+			},
+		{
+			"LON": "-122.0318937",
+			"LAT": "37.3068463",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "8d0d8b3489ca7c4b"
+			},
+		{
+			"LON": "-122.0317881",
+			"LAT": "37.3068944",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "12da65b04d42162a"
+			},
+		{
+			"LON": "-122.0315715",
+			"LAT": "37.3068972",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "b63132dd7fabbbca"
+			},
+		{
+			"LON": "-122.0318956",
+			"LAT": "37.3069397",
+			"NUMBER": "1080",
+			"STREET": "SARATOGA-SUNNYVALE RD",
+			"UNIT": "",
+			"CITY": "SAN JOSE",
+			"DISTRICT": "",
+			"REGION": "CA",
+			"POSTCODE": "95129",
+			"ID": "",
+			"HASH": "0b8828d6d12b2842"
+			}
+		]
+	},
+]
