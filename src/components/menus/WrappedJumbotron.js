@@ -1,11 +1,12 @@
 import React from "react";
+import PropTypes from "prop-types";
 import { Menu, Container, Image, Button, Header } from "semantic-ui-react";
 import { Link } from "react-router-dom";
 import * as headerBackground from "../../images/home-main-background-image.jpg";
 import * as logoLight from "../../images/rei-analyze-logo-light.png";
 import SearchBox from "../searches/SearchBox";
 
-const WrappedJumbotron = () => (
+const WrappedJumbotron = ({ isAuthenticated, logout }) => (
 	<div>
 		<Menu
 			fluid
@@ -26,18 +27,33 @@ const WrappedJumbotron = () => (
 						style={{ width: 250 }}
 					/>
 				</Menu.Item>
-				<Menu.Menu position="right">
-					<Menu.Item className="item">
-						<Button as={Link} to="/login">
-							Log in
-						</Button>
-					</Menu.Item>
-					<Menu.Item>
-						<Button as={Link} to="/signup" primary>
-							Sign Up
-						</Button>
-					</Menu.Item>
-				</Menu.Menu>
+				{!isAuthenticated ? (
+					<Menu.Menu position="right">
+						<Menu.Item className="item">
+							<Button as={Link} to="/login">
+								Log in
+							</Button>
+						</Menu.Item>
+						<Menu.Item>
+							<Button as={Link} to="/signup" primary>
+								Sign Up
+							</Button>
+						</Menu.Item>
+					</Menu.Menu>
+				) : (
+					<Menu.Menu position="right">
+						<Menu.Item>
+							<Button
+								as={Link}
+								to="/"
+								primary
+								onClick={() => logout()}
+							>
+								Log out
+							</Button>
+						</Menu.Item>
+					</Menu.Menu>
+				)}
 			</Container>
 		</Menu>
 		<Container
@@ -75,5 +91,10 @@ const WrappedJumbotron = () => (
 		</Container>
 	</div>
 );
+
+WrappedJumbotron.propTypes = {
+	isAuthenticated: PropTypes.bool.isRequired,
+	logout: PropTypes.func.isRequired
+};
 
 export default WrappedJumbotron;

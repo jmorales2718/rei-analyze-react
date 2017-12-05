@@ -6,6 +6,7 @@ import thunk from "redux-thunk";
 import { composeWithDevTools } from "redux-devtools-extension";
 import { BrowserRouter } from "react-router-dom";
 import rootReducer from "./rootReducer";
+import { userLoggedIn } from "./actions/auth";
 // import "semantic-ui-css/semantic.min.css";
 import App from "./App";
 import registerServiceWorker from "./registerServiceWorker";
@@ -14,6 +15,11 @@ const store = createStore(
 	rootReducer,
 	composeWithDevTools(applyMiddleware(thunk))
 );
+
+if (localStorage.reiAnalyzeJWT) {
+	const user = { token: localStorage.reiAnalyzeJWT };
+	store.dispatch(userLoggedIn(user));
+}
 
 ReactDOM.render(
 	<BrowserRouter>
