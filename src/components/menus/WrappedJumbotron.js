@@ -2,11 +2,13 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Menu, Container, Image, Button, Header } from "semantic-ui-react";
 import { Link } from "react-router-dom";
+import { connect } from "react-redux";
 import * as headerBackground from "../../images/home-main-background-image.jpg";
 import * as logoLight from "../../images/rei-analyze-logo-light.png";
+import * as actions from "../../actions/auth";
 import SearchBox from "../searches/SearchBox";
 
-const WrappedJumbotron = ({ isAuthenticated, logout }) => (
+const WrappedJumbotron = ({ logout, isAuthenticated }) => (
 	<div>
 		<Menu
 			fluid
@@ -83,18 +85,26 @@ const WrappedJumbotron = ({ isAuthenticated, logout }) => (
 							marginBottom: 20
 						}}
 					/>
-					<Container text id="searchContainer">
-						<SearchBox />
-					</Container>
+					<SearchBox
+						size="huge"
+						width="100%"
+						placeholder="Enter a Bay Area City to Begin"
+					/>
 				</Container>
 			</Container>
 		</Container>
 	</div>
 );
 
+const mapStateToProps = state => ({
+	isAuthenticated: !!state.user.token
+});
+
 WrappedJumbotron.propTypes = {
 	isAuthenticated: PropTypes.bool.isRequired,
 	logout: PropTypes.func.isRequired
 };
 
-export default WrappedJumbotron;
+export default connect(mapStateToProps, {
+	logout: actions.logout
+})(WrappedJumbotron);

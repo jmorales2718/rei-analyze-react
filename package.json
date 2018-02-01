@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.17.1",
+    "gravatar-url": "^2.0.0",
     "jquery": "^3.2.1",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",

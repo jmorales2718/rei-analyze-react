@@ -1,35 +1,41 @@
 import React from "react";
+import PropTypes from "prop-types";
 import { Visibility } from "semantic-ui-react";
-import FixedMenu from "../menus/FixedMenu";
+import FixedMenu from "./FixedMenu";
 
-const StickyMenuWrap = (WrappedComponent, scrollTop) => {
-	class StickyMenu extends React.Component {
-		state = {};
+const ScrollTopMenu = WrappedComponent => {
+	class JumbotronWrapped extends React.Component {
+		state = {
+			visible: false
+		};
 
 		hideFixedMenu = () => this.setState({ visible: false });
 		showFixedMenu = () => this.setState({ visible: true });
 
 		render() {
 			const { visible } = this.state;
+			const { scrollTop } = this.props;
 			return (
 				<div>
 					{!visible || scrollTop === 0 ? null : <FixedMenu />}
-					{/* visible ? <FixedMenu /> : null */}
 
 					<Visibility
 						onBottomPassed={this.showFixedMenu}
 						onBottomVisible={this.hideFixedMenu}
 						once={false}
 					>
-						<div>
-							<WrappedComponent {...this.props} />
-						</div>
+						<WrappedComponent {...this.props} />
 					</Visibility>
 				</div>
 			);
 		}
 	}
-	return StickyMenu;
+
+	JumbotronWrapped.propTypes = {
+		scrollTop: PropTypes.bool.isRequired
+	};
+
+	return JumbotronWrapped;
 };
 
-export default StickyMenuWrap;
+export default ScrollTopMenu;

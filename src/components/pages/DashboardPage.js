@@ -1,8 +1,9 @@
 import React from "react";
+import TopNavigation from "../navigation/TopNavigation";
 
 const DashboardPage = () => (
 	<div>
-		<h1>DashboardPage</h1>
+		<TopNavigation />
 	</div>
 );
 
